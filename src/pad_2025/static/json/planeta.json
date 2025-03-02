@@ -1,0 +1,33 @@
+{
+    "paises":
+    [
+        {
+            "clima":"Caliente",
+            "nombre":"Panama",
+            "ubicacion":"Centro america",
+            "ciudades":
+            [
+                {
+                    "nombre":"Panama"
+                },
+                {
+                    "nombre":"chiriki"
+                }
+            ]
+        },
+        {
+            "clima":"tropical",
+            "nombre":"colombia",
+            "ubicacion":"Latino America",
+            "ciudades":
+            [
+                {
+                    "nombre":"Medellin"
+                },
+                {
+                    "nombre":"Bogota"
+                }
+            ]
+        }
+    ]
+}

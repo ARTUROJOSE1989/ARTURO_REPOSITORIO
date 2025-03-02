@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: pad
+Version: 0.0.1
+Author: Andres Callejas
+Author-email: 
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: requires-dist
